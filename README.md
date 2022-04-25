@@ -9,5 +9,7 @@ Tool Örnek
 
 # Information
 Os : windows
+
 Version : 1.1
+
 py : 3.10.4
